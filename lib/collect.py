@@ -14,10 +14,10 @@ if not os.path.exists(FOLLOWING_DIR):
 enc = lambda x: x.encode('ascii', errors='ignore')
 
 
-CONSUMER_KEY = 'mNKb2rzy6HkhVBFlZmvPnhZm8'
-CONSUMER_SECRET = 'qF7VhWzFpKufA7CF63qqdsVSu65YepI2AdvR6c1dM3JoOSjyWr'
-ACCESS_TOKEN = '934313536720957440-OOItj0snD2rJDYnPU2Hzmpz0L1IUBtf'
-ACCESS_TOKEN_SECRET = 'nct2zO2mT9MZrOJzfgKwCJew3HJrCO8Xr6xxETrQEwTtX'
+CONSUMER_KEY = 
+CONSUMER_SECRET = '
+ACCESS_TOKEN =
+ACCESS_TOKEN_SECRET = '
 
 # == OAuth Authentication ==
 #
